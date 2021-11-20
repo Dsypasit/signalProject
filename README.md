@@ -6,18 +6,17 @@ you can import multiple file and select more than 1 to combine signal together.
 
 ## Example
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87508088/142411608-df475014-ed85-4cf5-8955-a2bc3355c57a.png" /><br/>
+  <img src="https://user-images.githubusercontent.com/47467214/142718417-e64f41bd-8f71-428c-8451-829adf925a79.png" /><br/>
   Gui App
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87508088/142412917-1bc029e9-6048-4346-87cf-a37bc54ba419.png" /><br/>
+  <img src="https://user-images.githubusercontent.com/47467214/142718447-db07343c-c514-4600-8416-c3173e414e88.png" /><br/>
   Import .wav file and show signal
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87508088/142413195-aabc75cf-f71e-42a1-8674-32c7127abab2.png" /><br/>
+  <img src="https://user-images.githubusercontent.com/47467214/142718468-4a4d0b3f-c241-4397-92e3-f40c669ce35d.png" /><br/>
   Select multiple .wav file and show combine signal
 </p>
-
 
 
 
